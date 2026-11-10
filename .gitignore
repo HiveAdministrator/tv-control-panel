@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+
+build/
+dist/
+
+android-platform-tools/
+mi-home/
+
+tv-panel.json
+
+.venv/
+venv/
